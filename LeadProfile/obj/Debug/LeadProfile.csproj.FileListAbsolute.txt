@@ -1,0 +1,5 @@
+C:\Users\sdesai\documents\visual studio 2010\Projects\LeadProfile\LeadProfile\bin\LeadProfile.dll
+C:\Users\sdesai\documents\visual studio 2010\Projects\LeadProfile\LeadProfile\bin\LeadProfile.pdb
+C:\Users\sdesai\documents\visual studio 2010\Projects\LeadProfile\LeadProfile\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\sdesai\documents\visual studio 2010\Projects\LeadProfile\LeadProfile\obj\Debug\LeadProfile.dll
+C:\Users\sdesai\documents\visual studio 2010\Projects\LeadProfile\LeadProfile\obj\Debug\LeadProfile.pdb
